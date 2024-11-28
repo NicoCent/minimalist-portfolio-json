@@ -42,6 +42,15 @@
       ]
     }
   ],
+  "education": [
+    {
+      "institution": "IES Vedruna",
+      "startDate": "2023",
+      "endDate": "2025",
+      "studyType": "Multiplatform Application Development",
+      "area": "Software Development"
+    }
+  ],
   "skills": [
     {
       "name": "Java",
