@@ -4,13 +4,13 @@
     "label": "Multiplatform Application Development Student (DAM)",
     "image": "public/hk_imagen.jpg",
     "email": "nicolas.centeno@a.vedrunasevillasj.es",
-    "phone": "+34 612345789",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "phone": "+34 644296441",
+    "url": "",
+    "summary": "Currently studying a higher degree of multiplatform application development. I live in Seville, Spain. I hardly have professional experience but wanting to work",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "41018",
+      "city": "Sevilla",
       "countryCode": "ES",
       "region": "Spain"
     },
@@ -18,7 +18,7 @@
       {
         "network": "LinkedIn",
         "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "url": "https://linkedin.com/in/nicocent"
       },
       {
         "network": "X",
@@ -34,37 +34,16 @@
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "name": "Eviden",
+      "position": "Student in practices",
+      "url": "https://eviden.com/es-es/",
+      "startDate": "2024-04-04",
+      "endDate": "2024-07-06",
+      "summary": "Student in practices through dual training for 3 months",
       "highlights": [
-        "Started the company"
+        "My first contact with the world of work"
       ]
-    },
-    {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
-      "highlights": [
-        "Started the company"
-      ]
-    }
+    }, 
   ],
   "references": [
     {
