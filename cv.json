@@ -2,9 +2,9 @@
   "basics": {
     "name": "Nicolás Centeno",
     "label": "Multiplatform Application Development Student (DAM)",
-    "image": "",
+    "image": "/me.webp",
     "email": "nicolas.centeno@a.vedrunasevillasj.es",
-    "phone": "+34 644296441",
+    "phone": "+34 688888888",
     "url": "",
     "summary": "Currently studying a higher degree of multiplatform application development. I live in Seville, Spain. I hardly have professional experience but I am eager to work.",
     "location": {
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "Nicolás Centeno",
-        "url": "https://linkedin.com/in/nicocent"
+        "username": "nicolascenteno",
+        "url": "https://linkedin.com/in/nicolascenteno"
       },
       {
         "network": "X",
-        "username": "Nicolás Centeno",
-        "url": "https://x.com/nicolascenteno"
+        "username": "nicocent",
+        "url": "https://x.com/nicocent"
       },
       {
         "network": "GitHub",
@@ -51,155 +51,242 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [""]
+      "highlights": [
+        ""
+      ]
     },
     {
       "name": "",
       "position": "",
-      "url": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [""]
+      "highlights": [
+        ""
+      ]
     }
   ],
   "references": [
     {
       "name": "Joaquin Borrego Fernández",
       "type": "Academic Reference",
-      "url": "",
+      "url": "https://twitch.tv/midudev",
       "position": "Teacher at IES Vedruna and Software Developer at Babel.",
       "contact": [
-        "Phone: +34 611223345",
+        "Phone: +34611223345",
         "Email: VY5q8@example.com"
       ]
     },
     {
-      "name": "",
-      "type": "",
-      "url": "",
-      "position": "",
-      "contact": [""]
+      "name": "Alejandro Téllez",
+      "type": "Professional Reference",
+      "url": "https://twitch.tv/midudev",
+      "position": "Analyst at NTT DATA.",
+      "contact": [
+        "Phone: +34611223344",
+        "Email: Va5q8om"
+      ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [""]
-    }
-  ],
-  "education": [
-    {
-      "institution": "IES Vedruna",
-      "url": "",
-      "area": "Software Development",
-      "studyType": "Multiplatform Application Development",
-      "startDate": "2023",
-      "endDate": "2025",
-      "score": "",
-      "courses": [""]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": ""
-    }
-  ],
-  "publications": [
-    {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
-    }
-  ],
+  "volunteer": [{
+    "organization": "",
+    "position": "",
+    "url": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
+    "highlights": [
+      ""
+    ]
+  }],
+  "education": [{
+    "institution": "IES Vedruna",
+    "url": "https://www.vedruna.com",
+    "area": "DAM",
+    "studyType": "Higher Degree",
+    "startDate": "2023-09-20",
+    "endDate": "2025-06-20",
+    "score": "10.0",
+    "courses": [
+      "Coding"
+    ]
+  }],
+  "awards": [{
+    "title": "",
+    "date": "",
+    "awarder": "",
+    "summary": ""
+  }],
+  "certificates": [{
+    "name": "",
+    "date": "",
+    "issuer": "",
+    "url": ""
+  }],
+  "publications": [{
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "url": "",
+    "summary": ""
+  }],
   "skills": [
-    {
-      "name": "Java",
-      "level": "Intermediate",
-      "keywords": [
-        "Object-Oriented Programming",
-        "Application Development"
-      ]
-    },
-    {
-      "name": "Python",
-      "level": "Intermediate",
-      "keywords": [
-        "Scripting",
-        "Data Analysis",
-        "Automation"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": [
-        "Responsive Design",
-        "Styling"
-      ]
-    },
     {
       "name": "HTML",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Markup Language"
+        "Web development", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "", "", "", ""
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "", "", "", ""
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "", "", "", ""
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "", "", "", ""
       ]
     },
     {
       "name": "MySQL",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": [
-        "Database Management",
-        "SQL"
+        "Bases de Datos", "SQL", "Database", "Backend"
       ]
     },
     {
-      "name": "Android",
-      "level": "Intermediate",
+      "name": "Git",
+      "level": "Advanced",
       "keywords": [
-        "Mobile Development",
-        "Java",
-        "Kotlin"
+        "Version control", "Colaboración", "Source code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": [
+        "Version control", "Collaboration", "Source code", "Git"
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "", "", "", "", ""
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "", "", "", ""
       ]
     }
   ],
   "languages": [
     {
-      "language": "",
-      "fluency": ""
-    }
-  ],
-  "interests": [
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
     {
-      "name": "",
-      "keywords": [""]
+      "language": "English",
+      "fluency": "Advanced"
     }
   ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
   "projects": [
     {
       "name": "",
-      "isActive": "",
+      "isActive": true,
       "description": "",
-      "highlights": [""],
+      "highlights": [
+        "",
+        ""
+      ],
+      "url": ""
+    },
+    {
+      "name": "",
+      "isActive": true,
+      "description": "",
+      "highlights": [
+        "",
+        "",
+        ""
+      ],
+      "url": ""
+    },
+    {
+      "name": "",
+      "isActive": true,
+      "description": "",
+      "highlights": [
+        "",
+        ""
+      ],
+      "url": ""
+    },
+    {
+      "name": "",
+      "isActive": true,
+      "description": "",
+      "highlights": [
+        "",
+        ""
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "",
+      "isActive": true,
+      "description": "",
+      "highlights": [
+        "",
+        ""
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "",
+      "description": "",
+      "highlights": [
+        "",
+        ""
+      ],
       "url": ""
     }
   ]
