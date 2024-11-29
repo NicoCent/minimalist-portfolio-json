@@ -2,10 +2,13 @@
   "basics": {
     "name": "Nicolás Centeno",
     "label": "Multiplatform Application Development Student (DAM)",
+    "image": "",
     "email": "nicolas.centeno@a.vedrunasevillasj.es",
     "phone": "+34 644296441",
+    "url": "",
     "summary": "Currently studying a higher degree of multiplatform application development. I live in Seville, Spain. I hardly have professional experience but I am eager to work.",
     "location": {
+      "address": "",
       "postalCode": "41018",
       "city": "Sevilla",
       "countryCode": "ES",
@@ -40,15 +43,91 @@
       "highlights": [
         "My first contact with the world of work"
       ]
+    },
+    {
+      "name": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "name": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
+    }
+  ],
+  "references": [
+    {
+      "name": "Joaquin Borrego Fernández",
+      "type": "Academic Reference",
+      "url": "",
+      "position": "Teacher at IES Vedruna and Software Developer at Babel.",
+      "contact": [
+        "Phone: +34 611223345",
+        "Email: VY5q8@example.com"
+      ]
+    },
+    {
+      "name": "",
+      "type": "",
+      "url": "",
+      "position": "",
+      "contact": [""]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "education": [
     {
       "institution": "IES Vedruna",
+      "url": "",
+      "area": "Software Development",
+      "studyType": "Multiplatform Application Development",
       "startDate": "2023",
       "endDate": "2025",
-      "studyType": "Multiplatform Application Development",
-      "area": "Software Development"
+      "score": "",
+      "courses": [""]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
     }
   ],
   "skills": [
@@ -103,15 +182,25 @@
       ]
     }
   ],
-  "references": [
+  "languages": [
     {
-      "name": "Joaquin Borrego Fernández",
-      "type": "Academic Reference",
-      "position": "Teacher at IES Vedruna and Software Developer at Babel.",
-      "contact": [
-        "Phone: +34 611223345",
-        "Email: VY5q8@example.com"
-      ]
+      "language": "",
+      "fluency": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": [""]
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "isActive": "",
+      "description": "",
+      "highlights": [""],
+      "url": ""
     }
   ]
 }
